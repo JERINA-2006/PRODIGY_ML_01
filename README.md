@@ -11,6 +11,8 @@ The dataset used is from Kaggle's [House Prices - Advanced Regression Techniques
 ## 📈 Output
 ![Screenshot](notebooks/output_plot.png) <!-- Replace with your actual plot screenshot filename -->
 
-
-
 ## 📁 Folder Structure
+- `data/` - contains the `train.csv` dataset
+- `notebooks/` - contains your Jupyter notebook and output plot
+- `requirements.txt` - dependencies used in the project
+- `README.md` - this file
